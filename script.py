@@ -12,7 +12,7 @@ password = "Cik-1604-24@021"
 user_bot_chatID = '1296818887'
 account_name = "Ithika"
 accept_option = True
-start_time = 09                   #Stating time. Default 0. In 24 hour format
+start_time = 9                   #Stating time. Default 0. In 24 hour format
 end_time = 22                   #Stating time. Default 25. In 24 hour format
 
 
